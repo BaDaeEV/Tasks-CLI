@@ -1,16 +1,23 @@
 [
     {
         "id": 0,
-        "description": "przechuj",
+        "description": "Buy 1oz milk",
         "status": "todo",
-        "createdAt": "2025/10/26_09:30:15",
-        "updatedAt": "2025/10/26_09:30:15"
+        "createdAt": "2025/10/26_09:47:00",
+        "updatedAt": "2025/10/26_09:47:00"
     },
     {
         "id": 1,
-        "description": "przechuj",
-        "status": "done",
-        "createdAt": "2025/10/26_09:30:47",
-        "updatedAt": "2025/10/26_09:37:39"
+        "description": "Buy bread",
+        "status": "todo",
+        "createdAt": "2025/10/26_09:47:08",
+        "updatedAt": "2025/10/26_09:47:08"
+    },
+    {
+        "id": 2,
+        "description": "Do homework",
+        "status": "in-progress",
+        "createdAt": "2025/10/26_09:47:18",
+        "updatedAt": "2025/10/26_09:47:41"
     }
 ]
