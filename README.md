@@ -22,3 +22,5 @@ List tasks:
     python3 <filename> list                # lists all tasks
     python3 <filename> list <status>       # lists tasks filtered by status (todo, in-progress, done)
 
+Project gathered from: https://roadmap.sh/projects/task-tracker
+
